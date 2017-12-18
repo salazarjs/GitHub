@@ -1,0 +1,13 @@
+C:\Users\Jessica\source\repos\EjercicioNumeroBinario\EjercicioNumeroBinario\bin\Debug\EjercicioNumeroBinario.exe.config
+C:\Users\Jessica\source\repos\EjercicioNumeroBinario\EjercicioNumeroBinario\bin\Debug\EjercicioNumeroBinario.exe
+C:\Users\Jessica\source\repos\EjercicioNumeroBinario\EjercicioNumeroBinario\bin\Debug\EjercicioNumeroBinario.pdb
+C:\Users\Jessica\source\repos\EjercicioNumeroBinario\EjercicioNumeroBinario\obj\Debug\EjercicioNumeroBinario.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\EjercicioNumeroBinario\EjercicioNumeroBinario\obj\Debug\EjercicioNumeroBinario.exe
+C:\Users\Jessica\source\repos\EjercicioNumeroBinario\EjercicioNumeroBinario\obj\Debug\EjercicioNumeroBinario.pdb
+C:\Users\Jessica\source\repos\EjercicioNumeroBinario\EjercicioNumeroBinario\obj\Debug\EjercicioNumeroBinario.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\Entre Final\EjercicioNumeroBinario\EjercicioNumeroBinario\bin\Debug\EjercicioNumeroBinario.exe.config
+C:\Users\Soren\Desktop\Entre Final\EjercicioNumeroBinario\EjercicioNumeroBinario\bin\Debug\EjercicioNumeroBinario.exe
+C:\Users\Soren\Desktop\Entre Final\EjercicioNumeroBinario\EjercicioNumeroBinario\bin\Debug\EjercicioNumeroBinario.pdb
+C:\Users\Soren\Desktop\Entre Final\EjercicioNumeroBinario\EjercicioNumeroBinario\obj\Debug\EjercicioNumeroBinario.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\Entre Final\EjercicioNumeroBinario\EjercicioNumeroBinario\obj\Debug\EjercicioNumeroBinario.exe
+C:\Users\Soren\Desktop\Entre Final\EjercicioNumeroBinario\EjercicioNumeroBinario\obj\Debug\EjercicioNumeroBinario.pdb
