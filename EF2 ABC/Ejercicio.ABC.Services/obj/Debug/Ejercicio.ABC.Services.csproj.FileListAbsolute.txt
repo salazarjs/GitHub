@@ -1,0 +1,32 @@
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Ejercicio.ABC.Services.dll
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Ejercicio.ABC.Services.pdb
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Ejercicio.ABC.Data.dll
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\FluentNHibernate.dll
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\log4net.dll
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\NHibernate.dll
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Ejercicio.ABC.Data.pdb
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\FluentNHibernate.pdb
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\FluentNHibernate.xml
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\log4net.xml
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\NHibernate.xml
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\obj\Debug\Ejercicio.ABC.Services.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\obj\Debug\Ejercicio.ABC.Services.dll
+C:\Users\Soren\Documents\Ejercicio.ABC.Web\Ejercicio.ABC.Services\obj\Debug\Ejercicio.ABC.Services.pdb
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Ejercicio.ABC.Services.dll
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Ejercicio.ABC.Services.pdb
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Ejercicio.ABC.Data.dll
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\FluentNHibernate.dll
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\log4net.dll
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\NHibernate.dll
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Ejercicio.ABC.Data.pdb
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\FluentNHibernate.pdb
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\FluentNHibernate.xml
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\log4net.xml
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\bin\Debug\NHibernate.xml
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\obj\Debug\Ejercicio.ABC.Services.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\obj\Debug\Ejercicio.ABC.Services.dll
+C:\Users\Soren\Desktop\Entre Final\Ejercicio.ABC.Web\Ejercicio.ABC.Services\obj\Debug\Ejercicio.ABC.Services.pdb
