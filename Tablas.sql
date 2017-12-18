@@ -1,0 +1,38 @@
+CREATE TABLE Usuario
+(
+	UsuarioID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	Clave NVARCHAR(3) NOT NULL,
+	Nombre NVARCHAR(20) NOT NULL,
+	Apellido NVARCHAR(20) NOT NULL,
+	FechaNacimiento DATE,
+	Estatus BIT
+)
+
+CREATE TABLE Comentario
+(
+	ComentarioID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	Descripcion NVARCHAR(50),
+	UsuarioID INT NOT NULL FOREIGN KEY REFERENCES Usuario(UsuarioID),
+	Estatus BIT
+)
+
+CREATE TABLE Proveedor
+(
+	ProveedorID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	RFC NVARCHAR(13) NOT NULL,
+	Nombre NVARCHAR(MAX) NOT NULL,
+	Estatus BIT
+)
+
+CREATE TABLE Producto
+(
+	ProductoID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	Descripcion NVARCHAR(20) NOT NULL,
+	Estatus BIT
+)
+
+CREATE TABLE ProveedorProducto
+(
+	ProveedorID INT NOT NULL,
+	ProductoID INT NOT NULL
+)
